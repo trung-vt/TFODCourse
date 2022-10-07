@@ -25,7 +25,7 @@ python -m ipykernel install --user --name=tfod
 </pre>
 <b>Backtrack.</b> To remove the environment from Jupyter (i.e. from the Python Kernel) (https://gist.github.com/swedishmike/902fb27d627313c31a95e31c44e302ac#file-gistfile1-txt-L22)
 <pre>
-jupyter kernelspec uninstall 'env-name'     # weird how the command is nothing like the command used to add the environment
+jupyter kernelspec uninstall 'tfod'     # weird how the command is nothing like the command used to add the environment
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/nicknochnack/TFODCourse/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
