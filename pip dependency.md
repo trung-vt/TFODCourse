@@ -1,0 +1,19 @@
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+tf-models-official 2.10.0 requires Cython, which is not installed.
+tf-models-official 2.10.0 requires gin-config, which is not installed.
+tf-models-official 2.10.0 requires google-api-python-client>=1.6.7, which is not installed.
+tf-models-official 2.10.0 requires immutabledict, which is not installed.
+tf-models-official 2.10.0 requires kaggle>=1.3.9, which is not installed.
+tf-models-official 2.10.0 requires oauth2client, which is not installed.
+tf-models-official 2.10.0 requires opencv-python-headless==4.5.2.52, which is not installed.
+tf-models-official 2.10.0 requires Pillow, which is not installed.
+tf-models-official 2.10.0 requires py-cpuinfo>=3.3.0, which is not installed.
+tf-models-official 2.10.0 requires pycocotools, which is not installed.
+tf-models-official 2.10.0 requires pyyaml<6.0,>=5.1, which is not installed.
+tf-models-official 2.10.0 requires sentencepiece, which is not installed.
+tf-models-official 2.10.0 requires seqeval, which is not installed.
+tf-models-official 2.10.0 requires tensorflow-addons, which is not installed.
+tf-models-official 2.10.0 requires tensorflow-datasets, which is not installed.
+tf-models-official 2.10.0 requires tensorflow-hub>=0.6.0, which is not installed.
+tf-models-official 2.10.0 requires tensorflow-model-optimization>=0.4.1, which is not installed.
+tf-models-official 2.10.0 requires tensorflow-text~=2.10.0, which is not installed.
