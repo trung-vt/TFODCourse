@@ -1,0 +1,1 @@
+NVIDIA GeForce RTX 3060, pci bus id: 0000:08:00.0, compute capability: 8.6
